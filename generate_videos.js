@@ -87,7 +87,7 @@ const min = videos.map(v => ({
 fs.writeFileSync("videos.json", JSON.stringify(enriched, null, 2));
 
 // versión liviana para producción
-const min = enriched.map(v => ({
+const minVideos = enriched.map(v => ({
   id: v.id,
   title: v.title,
   description: v.description,
