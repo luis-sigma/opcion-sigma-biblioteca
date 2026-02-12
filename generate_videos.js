@@ -71,5 +71,21 @@ async function main() {
 
   fs.writeFileSync("videos.json", JSON.stringify(enriched, null, 2));
 }
+// Archivo optimizado para frontend (ligero)
+const min = videos.map(v => ({
+  videoId: v.videoId,
+  title: v.title,
+  publishedAt: v.publishedAt,
+  thumbnails: { medium: v.thumbnails?.medium },
+  category: v.category || "General",
+  difficulty: v.difficulty || "intermediate",
+  tags: v.tags || [],
+  scores: v.scores || { rating: 0 },
+  metrics: v.metrics || {}
+}));
+
+fs.writeFileSync("videos.min.json", JSON.stringify(min), "utf-8");
+console.log(`OK: ${videos.length} videos escritos (full + min)`);
+
 
 main();
