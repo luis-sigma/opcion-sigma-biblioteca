@@ -84,7 +84,22 @@ const min = videos.map(v => ({
   metrics: v.metrics || {}
 }));
 
-fs.writeFileSync("videos.min.json", JSON.stringify(min), "utf-8");
+fs.writeFileSync("videos.json", JSON.stringify(enriched, null, 2));
+
+// versión liviana para producción
+const min = enriched.map(v => ({
+  id: v.id,
+  title: v.title,
+  description: v.description,
+  publishedAt: v.publishedAt,
+  thumbnails: v.thumbnails,
+  category: v.category,
+  difficulty: v.difficulty,
+  scores: v.scores
+}));
+
+fs.writeFileSync("videos.min.json", JSON.stringify(min));
+
 console.log(`OK: ${videos.length} videos escritos (full + min)`);
 
 
