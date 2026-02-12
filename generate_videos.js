@@ -72,7 +72,7 @@ async function main() {
   fs.writeFileSync("videos.json", JSON.stringify(enriched, null, 2));
 }
 // Archivo optimizado para frontend (ligero)
-const min = videos.map(v => ({
+const min = enriched.map(v => ({
   videoId: v.videoId,
   title: v.title,
   publishedAt: v.publishedAt,
