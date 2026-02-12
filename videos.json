@@ -1,0 +1,25 @@
+[
+  {
+    "videoId": "dQw4w9WgXcQ",
+    "title": "Video de prueba",
+    "description": "Prueba de conexión JSON",
+    "publishedAt": "2024-01-01T00:00:00Z",
+    "category": "Fundamentos de Opciones",
+    "difficulty": "basic",
+    "tags": ["prueba"],
+    "metrics": {
+      "views": 1000,
+      "likes": 100,
+      "comments": 20,
+      "durationSec": 600
+    },
+    "scores": {
+      "rating": 85
+    },
+    "thumbnails": {
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg"
+      }
+    }
+  }
+]
