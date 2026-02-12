@@ -36,7 +36,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -72,11 +72,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -112,11 +112,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -152,11 +152,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -196,7 +196,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -236,7 +236,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -276,7 +276,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -316,7 +316,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -356,7 +356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -396,7 +396,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -436,7 +436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -476,7 +476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -516,7 +516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -556,7 +556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -596,7 +596,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -636,7 +636,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -676,7 +676,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -716,7 +716,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -756,7 +756,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -796,7 +796,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -836,7 +836,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -876,7 +876,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -916,7 +916,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -956,7 +956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -992,11 +992,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -1036,7 +1036,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -1072,11 +1072,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -1116,7 +1116,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -1156,7 +1156,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -1196,7 +1196,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -1236,7 +1236,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -1276,7 +1276,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -1316,7 +1316,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -1356,7 +1356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -1396,7 +1396,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -1436,7 +1436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -1476,7 +1476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -1516,7 +1516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -1556,7 +1556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -1596,7 +1596,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -1636,7 +1636,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -1676,7 +1676,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -1716,7 +1716,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -1756,7 +1756,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -1796,7 +1796,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -1836,7 +1836,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -1876,7 +1876,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -1916,7 +1916,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -1956,7 +1956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -1996,7 +1996,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -2036,7 +2036,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -2076,7 +2076,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -2116,7 +2116,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -2156,7 +2156,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -2196,7 +2196,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -2236,7 +2236,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -2276,7 +2276,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -2316,7 +2316,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -2356,7 +2356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -2392,11 +2392,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -2436,7 +2436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -2476,7 +2476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -2516,7 +2516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -2556,7 +2556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -2596,7 +2596,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -2636,7 +2636,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -2676,7 +2676,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -2716,7 +2716,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -2756,7 +2756,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -2796,7 +2796,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -2836,7 +2836,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -2876,7 +2876,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -2916,7 +2916,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -2956,7 +2956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -2992,11 +2992,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -3032,11 +3032,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -3072,11 +3072,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -3112,11 +3112,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -3152,11 +3152,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -3192,11 +3192,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -3232,11 +3232,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -3272,11 +3272,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -3312,11 +3312,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -3352,11 +3352,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -3392,11 +3392,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -3432,11 +3432,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -3472,11 +3472,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -3512,11 +3512,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -3552,11 +3552,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -3592,11 +3592,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -3632,11 +3632,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -3672,11 +3672,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -3712,11 +3712,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -3752,11 +3752,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -3792,11 +3792,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -3832,11 +3832,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -3872,11 +3872,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -3912,11 +3912,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -3956,7 +3956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -3992,11 +3992,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -4032,11 +4032,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -4072,11 +4072,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -4112,11 +4112,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -4152,11 +4152,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -4192,11 +4192,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -4232,11 +4232,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -4272,11 +4272,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -4312,11 +4312,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -4352,11 +4352,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -4392,11 +4392,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -4432,11 +4432,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -4476,7 +4476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -4512,11 +4512,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -4556,7 +4556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -4592,11 +4592,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -4632,11 +4632,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -4672,11 +4672,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -4712,11 +4712,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -4752,11 +4752,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -4792,11 +4792,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -4832,11 +4832,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -4872,11 +4872,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -4912,11 +4912,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -4952,11 +4952,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -4992,11 +4992,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -5032,11 +5032,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -5072,11 +5072,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -5112,11 +5112,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -5152,11 +5152,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -5192,11 +5192,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -5232,11 +5232,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -5272,11 +5272,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -5312,11 +5312,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -5356,7 +5356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -5396,7 +5396,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -5436,7 +5436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -5476,7 +5476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -5516,7 +5516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -5556,7 +5556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -5596,7 +5596,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -5636,7 +5636,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -5676,7 +5676,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -5716,7 +5716,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -5756,7 +5756,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -5796,7 +5796,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -5836,7 +5836,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -5876,7 +5876,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -5916,7 +5916,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -5956,7 +5956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -5996,7 +5996,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -6036,7 +6036,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -6076,7 +6076,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -6116,7 +6116,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -6156,7 +6156,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -6196,7 +6196,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -6236,7 +6236,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -6276,7 +6276,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -6316,7 +6316,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -6356,7 +6356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -6396,7 +6396,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -6436,7 +6436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -6476,7 +6476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -6516,7 +6516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -6552,11 +6552,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -6596,7 +6596,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -6636,7 +6636,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -6676,7 +6676,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -6716,7 +6716,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -6756,7 +6756,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -6796,7 +6796,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -6836,7 +6836,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -6876,7 +6876,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -6916,7 +6916,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -6956,7 +6956,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -6996,7 +6996,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -7036,7 +7036,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -7072,11 +7072,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -7116,7 +7116,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -7156,7 +7156,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -7196,7 +7196,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -7236,7 +7236,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -7276,7 +7276,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -7316,7 +7316,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -7356,7 +7356,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -7396,7 +7396,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -7436,7 +7436,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -7476,7 +7476,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -7516,7 +7516,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -7556,7 +7556,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -7586,7 +7586,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -7626,7 +7626,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -7666,7 +7666,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -7706,7 +7706,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -7746,7 +7746,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -7786,7 +7786,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -7826,7 +7826,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -7866,7 +7866,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -7902,11 +7902,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -7946,7 +7946,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -7982,11 +7982,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -8026,7 +8026,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -8066,7 +8066,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -8106,7 +8106,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -8146,7 +8146,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -8186,7 +8186,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -8226,7 +8226,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -8266,7 +8266,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -8306,7 +8306,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -8346,7 +8346,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -8386,7 +8386,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -8426,7 +8426,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -8466,7 +8466,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -8506,7 +8506,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -8546,7 +8546,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -8586,7 +8586,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -8626,7 +8626,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -8666,7 +8666,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -8706,7 +8706,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -8746,7 +8746,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -8786,7 +8786,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -8822,11 +8822,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -8862,11 +8862,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -8902,11 +8902,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -8937,11 +8937,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -8977,11 +8977,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -9017,11 +9017,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -9061,7 +9061,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -9101,7 +9101,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -9137,11 +9137,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -9177,11 +9177,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -9217,11 +9217,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -9252,11 +9252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -9292,11 +9292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -9332,11 +9332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -9372,11 +9372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -9412,11 +9412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -9452,11 +9452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -9492,11 +9492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -9532,11 +9532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -9572,11 +9572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -9616,7 +9616,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -9652,11 +9652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -9696,7 +9696,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -9732,11 +9732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -9772,11 +9772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -9816,7 +9816,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -9852,11 +9852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -9896,7 +9896,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -9932,11 +9932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -9972,11 +9972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -10012,11 +10012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -10056,7 +10056,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -10092,11 +10092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -10132,11 +10132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -10172,11 +10172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -10212,11 +10212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -10256,7 +10256,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -10296,7 +10296,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -10332,11 +10332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -10372,11 +10372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -10412,11 +10412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -10452,11 +10452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -10492,11 +10492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -10532,11 +10532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -10572,11 +10572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -10612,11 +10612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -10652,11 +10652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -10692,11 +10692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -10732,11 +10732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -10772,11 +10772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -10812,11 +10812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -10856,7 +10856,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -10892,11 +10892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -10932,11 +10932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -10972,11 +10972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -11012,11 +11012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -11052,11 +11052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -11092,11 +11092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -11132,11 +11132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -11172,11 +11172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -11212,11 +11212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -11252,11 +11252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -11292,11 +11292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -11332,11 +11332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -11372,11 +11372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -11412,11 +11412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -11452,11 +11452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -11492,11 +11492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -11536,7 +11536,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -11572,11 +11572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -11612,11 +11612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -11652,11 +11652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -11692,11 +11692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -11732,11 +11732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -11772,11 +11772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -11812,11 +11812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -11852,11 +11852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -11892,11 +11892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -11932,11 +11932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -11972,11 +11972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -12012,11 +12012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -12052,11 +12052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -12092,11 +12092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -12132,11 +12132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -12172,11 +12172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -12212,11 +12212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -12252,11 +12252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -12292,11 +12292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -12332,11 +12332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -12376,7 +12376,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -12412,11 +12412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -12452,11 +12452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -12492,11 +12492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -12532,11 +12532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -12576,7 +12576,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -12612,11 +12612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "basic",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -12652,11 +12652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -12692,11 +12692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -12732,11 +12732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -12772,11 +12772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -12812,11 +12812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -12852,11 +12852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -12892,11 +12892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -12932,11 +12932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -12972,11 +12972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -13012,11 +13012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -13052,11 +13052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -13092,11 +13092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -13132,11 +13132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -13172,11 +13172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -13212,11 +13212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -13252,11 +13252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -13292,11 +13292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -13332,11 +13332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -13372,11 +13372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -13412,11 +13412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -13456,7 +13456,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -13492,11 +13492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -13536,7 +13536,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -13572,11 +13572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -13612,11 +13612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -13652,11 +13652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -13696,7 +13696,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -13732,11 +13732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -13772,11 +13772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -13812,11 +13812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -13852,11 +13852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -13892,11 +13892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -13932,11 +13932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -13972,11 +13972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -14012,11 +14012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -14052,11 +14052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -14092,11 +14092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -14136,7 +14136,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -14172,11 +14172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -14212,11 +14212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -14252,11 +14252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -14292,11 +14292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -14332,11 +14332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -14372,11 +14372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -14412,11 +14412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -14456,7 +14456,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -14492,11 +14492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -14532,11 +14532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -14572,11 +14572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -14612,11 +14612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -14652,11 +14652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -14692,11 +14692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -14732,11 +14732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -14772,11 +14772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -14812,11 +14812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -14852,11 +14852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -14892,11 +14892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -14932,11 +14932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -14972,11 +14972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -15012,11 +15012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -15052,11 +15052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -15096,7 +15096,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -15132,11 +15132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -15172,11 +15172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -15216,7 +15216,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -15252,11 +15252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -15292,11 +15292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -15332,11 +15332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -15372,11 +15372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -15412,11 +15412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -15452,11 +15452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -15492,11 +15492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -15532,11 +15532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -15572,11 +15572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -15612,11 +15612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -15656,7 +15656,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -15692,11 +15692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -15732,11 +15732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -15767,11 +15767,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -15807,11 +15807,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -15847,11 +15847,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -15887,11 +15887,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -15922,11 +15922,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -15962,11 +15962,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -16006,7 +16006,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -16042,11 +16042,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -16082,11 +16082,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -16122,11 +16122,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "basic",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -16162,11 +16162,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -16202,11 +16202,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -16242,11 +16242,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -16282,11 +16282,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -16322,11 +16322,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -16366,7 +16366,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -16402,11 +16402,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -16442,11 +16442,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -16486,7 +16486,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -16522,11 +16522,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -16562,11 +16562,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -16602,11 +16602,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -16642,11 +16642,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -16682,11 +16682,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -16722,11 +16722,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -16762,11 +16762,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -16802,11 +16802,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -16842,11 +16842,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -16882,11 +16882,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -16922,11 +16922,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -16962,11 +16962,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -17002,11 +17002,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -17042,11 +17042,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -17082,11 +17082,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -17122,11 +17122,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -17162,11 +17162,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -17202,11 +17202,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -17242,11 +17242,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -17282,11 +17282,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -17326,7 +17326,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -17362,11 +17362,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -17402,11 +17402,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -17442,11 +17442,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -17482,11 +17482,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -17522,11 +17522,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -17562,11 +17562,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -17602,11 +17602,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -17642,11 +17642,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -17682,11 +17682,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -17722,11 +17722,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -17762,11 +17762,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -17802,11 +17802,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -17842,11 +17842,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -17882,11 +17882,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -17922,11 +17922,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -17962,11 +17962,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -18002,11 +18002,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -18042,11 +18042,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -18082,11 +18082,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -18122,11 +18122,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -18162,11 +18162,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -18202,11 +18202,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -18242,11 +18242,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -18282,11 +18282,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -18322,11 +18322,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -18362,11 +18362,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -18406,7 +18406,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -18446,7 +18446,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -18482,11 +18482,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -18522,11 +18522,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -18562,11 +18562,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -18602,11 +18602,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -18642,11 +18642,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -18682,11 +18682,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -18722,11 +18722,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -18762,11 +18762,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -18806,7 +18806,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -18846,7 +18846,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -18886,7 +18886,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -18926,7 +18926,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -18966,7 +18966,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -19006,7 +19006,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -19046,7 +19046,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -19082,11 +19082,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -19122,11 +19122,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -19162,11 +19162,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -19202,11 +19202,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -19246,7 +19246,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -19282,11 +19282,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -19326,7 +19326,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -19357,11 +19357,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -19397,11 +19397,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -19437,11 +19437,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -19477,11 +19477,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -19517,11 +19517,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -19557,11 +19557,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -19597,11 +19597,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -19637,11 +19637,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -19677,11 +19677,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -19717,11 +19717,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -19757,11 +19757,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -19797,11 +19797,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -19837,11 +19837,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -19881,7 +19881,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -19917,11 +19917,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -19957,11 +19957,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -19997,11 +19997,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -20037,11 +20037,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -20077,11 +20077,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -20117,11 +20117,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -20157,11 +20157,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -20197,11 +20197,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -20237,11 +20237,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -20277,11 +20277,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -20317,11 +20317,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -20357,11 +20357,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "intermediate",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -20392,11 +20392,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -20427,11 +20427,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -20467,11 +20467,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -20507,11 +20507,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -20542,11 +20542,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -20582,11 +20582,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -20622,11 +20622,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -20662,11 +20662,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -20702,11 +20702,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -20742,11 +20742,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -20782,11 +20782,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -20817,11 +20817,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -20857,11 +20857,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -20897,11 +20897,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -20937,11 +20937,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -20977,11 +20977,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -21017,11 +21017,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -21057,11 +21057,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -21097,11 +21097,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -21137,11 +21137,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -21177,11 +21177,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -21217,11 +21217,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -21257,11 +21257,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -21297,11 +21297,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -21337,11 +21337,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -21377,11 +21377,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -21417,11 +21417,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -21457,11 +21457,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -21497,11 +21497,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -21537,11 +21537,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -21577,11 +21577,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -21617,11 +21617,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -21657,11 +21657,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -21697,11 +21697,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -21737,11 +21737,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -21777,11 +21777,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -21817,11 +21817,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -21857,11 +21857,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -21897,11 +21897,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -21937,11 +21937,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -21977,11 +21977,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -22017,11 +22017,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -22057,11 +22057,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -22097,11 +22097,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -22137,11 +22137,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -22177,11 +22177,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -22217,11 +22217,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -22257,11 +22257,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -22297,11 +22297,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -22337,11 +22337,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -22377,11 +22377,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -22417,11 +22417,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -22457,11 +22457,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -22497,11 +22497,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -22537,11 +22537,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -22577,11 +22577,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -22617,11 +22617,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -22657,11 +22657,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -22697,11 +22697,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -22737,11 +22737,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -22777,11 +22777,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -22817,11 +22817,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -22857,11 +22857,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -22897,11 +22897,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -22937,11 +22937,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -22977,11 +22977,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -23017,11 +23017,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -23057,11 +23057,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -23097,11 +23097,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -23137,11 +23137,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -23177,11 +23177,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -23217,11 +23217,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -23257,11 +23257,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -23297,11 +23297,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -23337,11 +23337,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -23377,11 +23377,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -23417,11 +23417,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -23457,11 +23457,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -23497,11 +23497,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -23537,11 +23537,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -23577,11 +23577,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -23617,11 +23617,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -23657,11 +23657,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -23697,11 +23697,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -23737,11 +23737,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -23777,11 +23777,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -23817,11 +23817,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -23857,11 +23857,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -23897,11 +23897,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -23937,11 +23937,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -23977,11 +23977,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -24017,11 +24017,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -24057,11 +24057,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -24097,11 +24097,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -24137,11 +24137,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -24177,11 +24177,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -24212,11 +24212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -24252,11 +24252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -24292,11 +24292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -24332,11 +24332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -24372,11 +24372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -24412,11 +24412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -24452,11 +24452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -24492,11 +24492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -24536,7 +24536,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -24572,11 +24572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -24612,11 +24612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 99
+      "rating": 0
     }
   },
   {
@@ -24652,11 +24652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -24692,11 +24692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -24732,11 +24732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -24772,11 +24772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -24812,11 +24812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -24852,11 +24852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -24892,11 +24892,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 91
+      "rating": 0
     }
   },
   {
@@ -24932,11 +24932,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -24972,11 +24972,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -25012,11 +25012,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -25052,11 +25052,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -25092,11 +25092,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -25132,11 +25132,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -25172,11 +25172,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -25212,11 +25212,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -25252,11 +25252,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -25292,11 +25292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -25332,11 +25332,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -25372,11 +25372,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -25412,11 +25412,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -25452,11 +25452,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 86
+      "rating": 0
     }
   },
   {
@@ -25492,11 +25492,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -25532,11 +25532,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 88
+      "rating": 0
     }
   },
   {
@@ -25572,11 +25572,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -25612,11 +25612,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 90
+      "rating": 0
     }
   },
   {
@@ -25652,11 +25652,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -25692,11 +25692,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -25732,11 +25732,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -25772,11 +25772,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -25812,11 +25812,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -25852,11 +25852,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -25887,11 +25887,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -25927,11 +25927,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -25967,11 +25967,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 98
+      "rating": 0
     }
   },
   {
@@ -26002,11 +26002,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -26042,11 +26042,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 80
+      "rating": 0
     }
   },
   {
@@ -26077,11 +26077,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 97
+      "rating": 0
     }
   },
   {
@@ -26112,11 +26112,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -26152,11 +26152,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 87
+      "rating": 0
     }
   },
   {
@@ -26187,11 +26187,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   },
   {
@@ -26222,11 +26222,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -26257,11 +26257,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 83
+      "rating": 0
     }
   },
   {
@@ -26292,11 +26292,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -26327,11 +26327,11 @@
       }
     },
     "category": "General",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -26362,11 +26362,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -26402,11 +26402,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -26442,11 +26442,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 81
+      "rating": 0
     }
   },
   {
@@ -26482,11 +26482,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -26522,11 +26522,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 95
+      "rating": 0
     }
   },
   {
@@ -26562,11 +26562,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 89
+      "rating": 0
     }
   },
   {
@@ -26606,7 +26606,7 @@
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 96
+      "rating": 0
     }
   },
   {
@@ -26642,11 +26642,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 92
+      "rating": 0
     }
   },
   {
@@ -26682,11 +26682,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 93
+      "rating": 0
     }
   },
   {
@@ -26722,11 +26722,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 84
+      "rating": 0
     }
   },
   {
@@ -26762,11 +26762,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 82
+      "rating": 0
     }
   },
   {
@@ -26802,11 +26802,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 85
+      "rating": 0
     }
   },
   {
@@ -26842,11 +26842,11 @@
       }
     },
     "category": "General",
-    "difficulty": "basic",
+    "difficulty": "advanced",
     "tags": [],
     "metrics": {},
     "scores": {
-      "rating": 94
+      "rating": 0
     }
   }
 ]
