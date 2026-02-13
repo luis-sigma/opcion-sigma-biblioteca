@@ -1,193 +1,133 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Biblioteca Opción Sigma</title>
-
-  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-
-  <style>
-    :root{
-      --border:#e5e5e5; --text:#111; --muted:#666; --bg:#fff; --card:#fff;
-      --chip:#f6f6f6; --chipb:#eaeaea;
-    }
-    body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;}
-    .wrap{max-width:1120px;margin:0 auto;padding:18px;}
-    h1{margin:6px 0 2px;font-size:28px;}
-    .sub{margin:0 0 14px;color:var(--muted);font-size:14px;}
-    .bar{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0 10px;}
-    input,select{padding:10px 12px;border:1px solid #ccc;border-radius:12px;font-size:14px;background:#fff;}
-    #q{flex:1;min-width:260px;}
-    .stats{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:6px 0 12px;}
-    .chip{background:var(--chip);border:1px solid var(--chipb);border-radius:999px;padding:6px 10px;font-size:12px;color:#333;}
-    .grid{display:flex;gap:12px;flex-wrap:wrap;}
-    .card{width:340px;border:1px solid var(--border);border-radius:16px;padding:12px;background:var(--card);}
-    .thumb{width:100%;border-radius:14px;display:block;}
-    .title{margin-top:10px;font-weight:800;line-height:1.15;}
-    .meta{margin-top:6px;font-size:12px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;}
-    .btnrow{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;}
-    .btn{padding:8px 10px;border-radius:12px;text-decoration:none;font-size:13px;display:inline-block;}
-    .btn.primary{border:1px solid #111;color:#111;background:#fff;}
-    .btn.ghost{border:1px solid #bbb;color:#111;background:#fff;}
-    .player{margin:14px 0;}
-    iframe{width:100%;max-width:1120px;height:540px;border:0;border-radius:16px;}
-    .footer{margin:18px 0 6px;color:var(--muted);font-size:12px;}
-    .warn{background:#fff7ed;border:1px solid #fed7aa;color:#7c2d12;padding:10px 12px;border-radius:14px;margin:10px 0;}
-  </style>
+<meta charset="UTF-8">
+<title>Biblioteca Opción Sigma</title>
+<style>
+body {
+  margin:0;
+  background:#0f0f0f;
+  color:white;
+  font-family:Arial, sans-serif;
+}
+.container {
+  padding:30px;
+}
+h1 {
+  margin-bottom:30px;
+}
+.category {
+  margin-bottom:40px;
+}
+.category h2 {
+  margin-bottom:15px;
+}
+.row {
+  display:flex;
+  overflow-x:auto;
+  gap:15px;
+  padding-bottom:10px;
+}
+.card {
+  min-width:260px;
+  transition:transform 0.2s;
+  cursor:pointer;
+}
+.card img {
+  width:100%;
+  border-radius:8px;
+}
+.card:hover {
+  transform:scale(1.08);
+}
+.player {
+  margin-bottom:40px;
+}
+iframe {
+  width:100%;
+  max-width:1000px;
+  height:560px;
+  border:none;
+  border-radius:12px;
+}
+::-webkit-scrollbar {
+  height:8px;
+}
+::-webkit-scrollbar-thumb {
+  background:#444;
+  border-radius:4px;
+}
+</style>
 </head>
-
 <body>
-  <div class="wrap">
-    <h1>Biblioteca Opción Sigma</h1>
-    <p class="sub">Busca por palabra clave, filtra por dificultad y ordena por rating, vistas o fecha.</p>
 
-    <div class="bar">
-      <input id="q" placeholder="Buscar: gamma, wheel, iron condor, 0DTE, vanna..." />
-      <select id="difficulty">
-        <option value="">Dificultad: Todas</option>
-        <option value="basic">Básico</option>
-        <option value="intermediate">Intermedio</option>
-        <option value="advanced">Avanzado</option>
-      </select>
-      <select id="sort">
-        <option value="rating">Orden: Rating</option>
-        <option value="recent">Más recientes</option>
-        <option value="views">Más vistos</option>
-      </select>
-    </div>
+<div class="container">
+  <h1>Biblioteca Opción Sigma</h1>
 
-    <div class="stats">
-      <span class="chip" id="count">0 videos</span>
-      <span class="chip" id="shown">Mostrando 0</span>
-      <span class="chip" id="source">Fuente: videos.json</span>
-    </div>
+  <div class="player" id="player"></div>
 
-    <div id="msg"></div>
-
-    <div class="player" id="player"></div>
-
-    <div class="grid" id="results"></div>
-
-    <div class="footer">
-      Nota: Esta biblioteca usa el embed oficial de YouTube. Para un video, siempre puedes abrirlo en YouTube.
-    </div>
-  </div>
+  <div id="categories"></div>
+</div>
 
 <script>
-(async function () {
-  const DATA_URL = "https://luis-sigma.github.io/opcion-sigma-biblioteca/videos.min.json";
-  const PAGE_SIZE = 24;
 
-  const $ = (id) => document.getElementById(id);
+const DATA_URL = "https://luis-sigma.github.io/opcion-sigma-biblioteca/videos.min.json";
 
-  function fmtNum(n){
-    if (n === null || n === undefined) return "";
-    try { return Number(n).toLocaleString("en-US"); } catch { return String(n); }
-  }
+function playVideo(id){
+  document.getElementById("player").innerHTML = `
+    <iframe src="https://www.youtube.com/embed/${id}"
+      allowfullscreen></iframe>
+  `;
+  window.scrollTo({top:0, behavior:"smooth"});
+}
 
-  function dateStr(iso){
-    if (!iso) return "";
-    const d = new Date(iso);
-    return isNaN(d) ? "" : d.toLocaleDateString();
-  }
+fetch(DATA_URL)
+  .then(res => res.json())
+  .then(videos => {
 
-  function cardHTML(v){
-    const thumb = v.thumbnails?.medium?.url || v.thumbnails?.default?.url || "";
-    const rating = v.scores?.rating ?? "";
-    const views = v.metrics?.views ?? "";
-    const diff = v.difficulty || "";
-    const cat = v.category || "";
-    return `
-      <div class="card">
-        <img class="thumb" src="${thumb}" alt="">
-        <div class="title">${v.title || "(sin título)"}</div>
-        <div class="meta">
-          <span>📅 ${dateStr(v.publishedAt)}</span>
-          ${cat ? `<span>🗂️ ${cat}</span>` : ""}
-          ${diff ? `<span>🎚️ ${diff}</span>` : ""}
-          ${rating !== "" ? `<span>⭐ ${rating}</span>` : ""}
-          ${views !== "" ? `<span>👁️ ${fmtNum(views)}</span>` : ""}
-        </div>
-        <div class="btnrow">
-          <a class="btn primary" href="#" data-id="${v.videoId}">Ver</a>
-          <a class="btn ghost" href="https://www.youtube.com/watch?v=${v.videoId}" target="_blank" rel="noreferrer">Abrir en YouTube</a>
-        </div>
-      </div>
-    `;
-  }
+    const grouped = {};
 
-  function render(list){
-    $("shown").textContent = `Mostrando ${Math.min(PAGE_SIZE, list.length)} de ${list.length}`;
-    const el = $("results");
-    el.innerHTML = list.slice(0, PAGE_SIZE).map(cardHTML).join("");
-
-    el.querySelectorAll("[data-id]").forEach(a => {
-      a.addEventListener("click", (e) => {
-        e.preventDefault();
-        const id = a.getAttribute("data-id");
-        $("player").innerHTML = `
-          <iframe
-            src="https://www.youtube.com/embed/${id}"
-            allowfullscreen
-            title="YouTube video player"></iframe>
-        `;
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
+    videos.forEach(v => {
+      const cat = v.category || "General";
+      if(!grouped[cat]) grouped[cat] = [];
+      grouped[cat].push(v);
     });
-  }
 
-  function sortList(list, mode){
-    const copy = [...list];
-    if (mode === "recent") {
-      copy.sort((a,b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-    } else if (mode === "views") {
-      copy.sort((a,b) => (b.metrics?.views || 0) - (a.metrics?.views || 0));
-    } else {
-      copy.sort((a,b) => (b.scores?.rating || 0) - (a.scores?.rating || 0));
-    }
-    return copy;
-  }
+    const container = document.getElementById("categories");
 
-  // carga
-  let all = [];
-  try{
-    const res = await fetch(DATA_URL, { cache: "no-store" });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    all = await res.json();
-    if (!Array.isArray(all)) throw new Error("videos.json no es un array");
-  } catch(err){
-    $("msg").innerHTML = `<div class="warn">No pude cargar <b>videos.json</b>. Error: ${String(err.message || err)}</div>`;
-    return;
-  }
+    Object.keys(grouped).sort().forEach(cat => {
 
-  $("count").textContent = `${all.length} videos`;
-  $("source").textContent = `Fuente: ${DATA_URL}`;
+      const section = document.createElement("div");
+      section.className = "category";
 
-  const fuse = new Fuse(all, {
-    keys: ["title","description","tags","category"],
-    threshold: 0.35,
-    ignoreLocation: true
+      const title = document.createElement("h2");
+      title.innerText = cat;
+
+      const row = document.createElement("div");
+      row.className = "row";
+
+      grouped[cat].slice(0, 25).forEach(video => {
+
+        const card = document.createElement("div");
+        card.className = "card";
+        card.onclick = () => playVideo(video.videoId);
+
+        card.innerHTML = `
+          <img src="${video.thumbnails?.medium?.url || ''}">
+        `;
+
+        row.appendChild(card);
+      });
+
+      section.appendChild(title);
+      section.appendChild(row);
+      container.appendChild(section);
+
+    });
+
   });
 
-  function apply(){
-    const q = $("q").value.trim();
-    const diff = $("difficulty").value;
-    const sort = $("sort").value;
-
-    let out = q ? fuse.search(q).map(r => r.item) : all;
-    if (diff) out = out.filter(v => v.difficulty === diff);
-    out = sortList(out, sort);
-
-    render(out);
-  }
-
-  $("q").addEventListener("input", apply);
-  $("difficulty").addEventListener("change", apply);
-  $("sort").addEventListener("change", apply);
-
-  apply();
-})();
 </script>
+
 </body>
 </html>
